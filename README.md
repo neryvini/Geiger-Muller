@@ -15,7 +15,7 @@ compatível com os mais diversos modelos comerciais de tubos Geiger-Müller. Foi
 deste projeto a implementação de um sistema microprocessado para a contagem dos
 pulsos, conversão em taxa de dose de radiação, transmissão via interface e protocolo de
 comunicação industrial, além de informar em tempo real para o usuário por meio de uma
-tela de LCD2 os parâmetros de radiação detectados.
+tela de LCD os parâmetros de radiação detectados.
 
 Testou-se o produto desenvolvido com os tubos SI-3BG e SBM-20, em ambos os testes os
 valores detectados para a radiação de fundo foram consistentes com o esperado.
